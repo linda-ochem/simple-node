@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a very simple, bare-bones NodeJS project created for you to use with Docker. This is a variant of our simple-node project that takes a long time to build.
+This is a     very simple, bare-bones NodeJS project created for you to use with Docker. This is a variant of our simple-node project that takes a long time to build.
 
 ## Local Setup
 
